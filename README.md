@@ -12,6 +12,6 @@
 - 👍 Feel free to invite me to contribute in projects or just play a little.
 
 ### Contacts
-[![Linkedin Badge](https://img.shields.io/badge/-Andre%20Pereira-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brpadilha/)](https://www.linkedin.com/in/brpadilha/) 
-[![Gmail Badge](https://img.shields.io/badge/-contato.andrepsf@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:tbrpadilha.dev@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Andre%20Pereira-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-pereira-63673a77/)](https://www.linkedin.com/in/andre-pereira-63673a77/) 
+[![Gmail Badge](https://img.shields.io/badge/-contato.andrepsf@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:contato.andrepsf@gmail.com)](mailto:contato.andrepsf@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-Darkzuz%235467-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/)](https://discord.com/)

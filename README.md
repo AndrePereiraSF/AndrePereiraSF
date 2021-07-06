@@ -7,7 +7,7 @@
 - 🌎 Living in Juazeiro do Norte, a very hot climate place.
 - ⚡ Fullstack developer.
 - 💻 I can help you with ExpressJS, ReactJS, ReactNative, and other JS and TS technologies.
-- 📈 Working at [WEBJUMP](https://webjump.com.br).
+- 📈 Working at [Tabella](https://jointabella.com/).
 - 🎮 Indie games sommelier in my spare time and also collect manga and other anime stuff :).
 - 👍 Feel free to invite me to contribute in projects or just play a little.
 
